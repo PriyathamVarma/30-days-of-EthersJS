@@ -10,7 +10,7 @@ Get to Know about how frontend applications interact with blockchain.
 ## Stages of interacting with a network
 
 ![Stage 0](https://github.com/Web3-courses/Diagrams/blob/main/Metamask.drawio.png)
-<hr/>
+<hr style="border:2px dashed gray">
 ![Stage 1](https://github.com/Web3-courses/Diagrams/blob/main/Contract_account_2.drawio.png)
 <hr/>
 ![Stage 2](https://github.com/Web3-courses/Diagrams/blob/main/Contract_account_3.drawio.png)
