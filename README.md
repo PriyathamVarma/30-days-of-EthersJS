@@ -1,4 +1,4 @@
-![Etherjs](https://github.com/PriyathamVarma/30-days-of-EthersJS/blob/main/EthersJS.png)
+![Etherjs](https://github.com/Web3-courses/30-days-of-EthersJS/blob/main/EthersJS.png)
 # 30-days-of-EthersJS
 ## Learn Ethers.js step-wise in just 30 days.
 
@@ -8,11 +8,11 @@ Ethersjs is one of the most famous JS libraries for interacting with Ethereum Cl
 
 | Day | Topic | Expected Outcome |
 |-|-|-|
-| [01](https://github.com/PriyathamVarma/30-days-of-EthersJS/tree/main/Day_01) | | |
-| [02](https://github.com/PriyathamVarma/30-days-of-EthersJS/tree/main/Day_02) | | |
-| [03](https://github.com/PriyathamVarma/30-days-of-EthersJS/tree/main/Day_03) | | |
-| [04](https://github.com/PriyathamVarma/30-days-of-EthersJS/tree/main/Day_04) | | |
-| [05](https://github.com/PriyathamVarma/30-days-of-EthersJS/tree/main/Day_05) | | |
+| [01](https://github.com/Web3-courses/30-days-of-EthersJS/tree/main/Day_01) | | |
+| [02](https://github.com/Web3-courses/30-days-of-EthersJS/tree/main/Day_02) | | |
+| [03](https://github.com/Web3-courses/30-days-of-EthersJS/tree/main/Day_03) | | |
+| [04](https://github.com/Web3-courses/30-days-of-EthersJS/tree/main/Day_04) | | |
+| [05](https://github.com/Web3-courses/30-days-of-EthersJS/tree/main/Day_05) | | |
 | [06]() | | |
 | [07]() | | |
 | [08]() | | |
