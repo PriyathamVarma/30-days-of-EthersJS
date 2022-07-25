@@ -1,6 +1,9 @@
 // Creating a node server
+// IMPORTS
+
 
 // Constants
 const { ethers } = require("ethers");
 
-// KEYS
+console.log(ethers);
+
