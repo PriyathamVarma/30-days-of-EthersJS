@@ -3,7 +3,7 @@
 
 Get to Know about how frontend applications interact with blockchain.
 
-## Interfacing Networs
+## Interfacing Networks
 
 ![Interfacing](https://github.com/Web3-courses/Diagrams/blob/main/Interfacing_Networks.drawio.png)
 
