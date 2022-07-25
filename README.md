@@ -41,6 +41,8 @@ Ethersjs is one of the most famous JS libraries for interacting with Ethereum Cl
 
 ## Useful resources
 
+- [OFFICIAL DOCS](https://docs.ethers.io/v5/getting-started/)
+
 ## Video Links
 
 ## Study Material
