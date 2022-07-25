@@ -1,0 +1,11 @@
+{
+  "name": "setup_dapp",
+  "version": "1.0.0",
+  "description": "For setting up a node project for dapp using ethersjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "VARMA, PRIYATHAM",
+  "license": "ISC"
+}
