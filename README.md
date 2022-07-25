@@ -43,6 +43,15 @@ Ethersjs is one of the most famous JS libraries for interacting with Ethereum Cl
 
 - [OFFICIAL DOCS](https://docs.ethers.io/v5/getting-started/)
 
+## Technology Stack
+
+- [NPM](https://www.npmjs.com/)
+- [Node JS](https://nodejs.org/en/)
+- [Alchemy](https://www.alchemy.com/)
+- [Metamask](https://metamask.zendesk.com/hc/en-us)
+- [Infura](https://infura.io/)
+- [Hardhat](https://hardhat.org/hardhat-runner/docs/getting-started#overview)
+
 ## Video Links
 
 ## Study Material
