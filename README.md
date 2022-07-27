@@ -8,7 +8,7 @@ Ethersjs is one of the most famous JS libraries for interacting with Ethereum Cl
 
 | Day | Topic | Expected Outcome |
 |-|-|-|
-| [01](https://github.com/PriyathamVarma/30-days-of-EthersJS/tree/main/Day_01) | | |
+| [01](https://github.com/PriyathamVarma/30-days-of-EthersJS/tree/main/Day_01) | Intro --> Networks, providers, wallets, clients and nodes | How the interactions happen between different stakeholders |
 | [02](https://github.com/PriyathamVarma/30-days-of-EthersJS/tree/main/Day_02) | | |
 | [03](https://github.com/PriyathamVarma/30-days-of-EthersJS/tree/main/Day_03) | | |
 | [04](https://github.com/PriyathamVarma/30-days-of-EthersJS/tree/main/Day_04) | | |
