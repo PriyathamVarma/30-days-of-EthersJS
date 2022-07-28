@@ -3,6 +3,7 @@
 // IMPORTS
 
 // Constants
+//const { AlchemyProvider } = require("@ethersproject/providers");
 const { ethers } = require("ethers");
 // Get environment variables from .env file
 require("dotenv").config({
@@ -20,19 +21,6 @@ const alchemyKey = process.env.ALCHEMY_KEY;
 // Getting the alchemy api key from the .env file
 const alchemyApi = process.env.ALCHEMY_API;
 
-
-// Get a provider --> Alchemy
-// Provider helps to interact with the blockchain
-const provider = new ethers.providers.AlchemyProvider(  "maticmum" , alchemyApi  );
-
-console.log(provider);
-
-// Get a wallet --> Wallet is a wrapper around a private key
-// It helps to interact with the blockchain
-// Get balance of the wallet
-// Get the wallet address
-
-console.log( provider.getBalance(publicKey));
 
 
 
