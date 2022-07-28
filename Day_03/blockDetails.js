@@ -41,4 +41,13 @@ const getLatestBlockDetails = async() =>{
     const hash = block.hash;                                           // Getting the hash of the block
     document.getElementById('hash').innerHTML = hash;                 // Displaying the hash on the page
 
+    const nonce = block.nonce;                                         // Getting the nonce of the block
+    document.getElementById('nonce').innerHTML = nonce;               // Displaying the nonce on the page
+
+    const parentHash = block.parentHash;                               // Getting the parent hash of the block
+    document.getElementById('parentHash').innerHTML = parentHash;     // Displaying the parent hash on the page
+
+    const timeStamp = block.timestamp;                                 // Getting the timestamp of the block
+    document.getElementById('timeStamp').innerHTML = timeStamp;       // Displaying the timestamp on the page
+
 }

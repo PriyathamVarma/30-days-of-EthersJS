@@ -26,8 +26,8 @@ const getBalance = async() =>{
     const account  = accounts[0];                                        // Getting the first account from the accounts array
     document.getElementById('address').innerHTML = account;              // Displaying the balance of the wallet
 
-
-    const balance  = await address.getBalance();                         // Getting the balance of the wallet   
+    const balance = await provider.getBalance(account);                  // Getting the balance of the wallet 
     document.getElementById('balance').innerHTML = balance.toString();   // Displaying the balance of the wallet
 
 }
+
