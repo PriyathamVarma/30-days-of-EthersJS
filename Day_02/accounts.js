@@ -20,9 +20,14 @@ const connect = async() =>{
 const getBalance = async() =>{
     console.log("Getting the balance...");
 
-    const provider = new ethers.providers.Web3Provider(window.ethereum);
-    const address = await provider.getSigner();
-    const balance = await address.getBalance();
-    console.log(address);
-    console.log(balance);
+    const provider = new ethers.providers.Web3Provider(window.ethereum); // Connecting to the metamask provider using window.ethereum object
+
+    let accounts   = await provider.send("eth_requestAccounts", []);     // Requesting the accounts from the metamask provider
+    const account  = accounts[0];                                        // Getting the first account from the accounts array
+    document.getElementById('address').innerHTML = account;              // Displaying the balance of the wallet
+
+    const balance = await provider.getBalance(account);                  // Getting the balance of the wallet 
+    document.getElementById('balance').innerHTML = balance.toString();   // Displaying the balance of the wallet
+
 }
+
