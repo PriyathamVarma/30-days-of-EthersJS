@@ -10,10 +10,10 @@ Ethersjs is one of the most famous JS libraries for interacting with Ethereum Cl
 |-|-|-|
 | [01](https://github.com/PriyathamVarma/30-days-of-EthersJS/tree/main/Day_01) | Intro : Networks, providers, wallets, clients and nodes | How the interactions happen between different stakeholders |
 | [02](https://github.com/PriyathamVarma/30-days-of-EthersJS/tree/main/Day_02) | Wallet balance | Connecting to wallet address and getting the balance |
-| [03](https://github.com/PriyathamVarma/30-days-of-EthersJS/tree/main/Day_03) | | |
-| [04](https://github.com/PriyathamVarma/30-days-of-EthersJS/tree/main/Day_04) | | |
-| [05](https://github.com/PriyathamVarma/30-days-of-EthersJS/tree/main/Day_05) | | |
-| [06](https://github.com/PriyathamVarma/30-days-of-EthersJS/tree/main/Day_06) | | |
+| [03](https://github.com/PriyathamVarma/30-days-of-EthersJS/tree/main/Day_03) | Block Details | Get the Block details of the latest block |
+| [04](https://github.com/PriyathamVarma/30-days-of-EthersJS/tree/main/Day_04) | Block Details 2| Get the Block details of the selected block |
+| [05](https://github.com/PriyathamVarma/30-days-of-EthersJS/tree/main/Day_05) | Account Details | Get the account details of the default signer account |
+| [06](https://github.com/PriyathamVarma/30-days-of-EthersJS/tree/main/Day_06) | Account Details 2| Get the account details of the selected signer account |
 | [07](https://github.com/PriyathamVarma/30-days-of-EthersJS/tree/main/Day_07) | | |
 | [08](https://github.com/PriyathamVarma/30-days-of-EthersJS/tree/main/Day_08) | | |
 | [09](https://github.com/PriyathamVarma/30-days-of-EthersJS/tree/main/Day_09) | | |
