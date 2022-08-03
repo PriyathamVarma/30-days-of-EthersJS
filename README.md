@@ -14,7 +14,7 @@ Ethersjs is one of the most famous JS libraries for interacting with Ethereum Cl
 | [04](https://github.com/PriyathamVarma/30-days-of-EthersJS/tree/main/Day_04) | Block Details 2| Get the Block details of the selected block |
 | [05](https://github.com/PriyathamVarma/30-days-of-EthersJS/tree/main/Day_05) | Account Details | Get the account details of the default signer account |
 | [06](https://github.com/PriyathamVarma/30-days-of-EthersJS/tree/main/Day_06) | Account Details 2| Get the account details of the selected signer account |
-| [07](https://github.com/PriyathamVarma/30-days-of-EthersJS/tree/main/Day_07) | | |
+| [07](https://github.com/PriyathamVarma/30-days-of-EthersJS/tree/main/Day_07) | Contract Interaction| Get the deployed contract details|
 | [08](https://github.com/PriyathamVarma/30-days-of-EthersJS/tree/main/Day_08) | | |
 | [09](https://github.com/PriyathamVarma/30-days-of-EthersJS/tree/main/Day_09) | | |
 | [10](https://github.com/PriyathamVarma/30-days-of-EthersJS/tree/main/Day_10) | | |
