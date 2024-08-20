@@ -1,5 +1,5 @@
 
-# Day 01
+# Day 1
 
 Get to Know about how frontend applications interact with blockchain.
 
