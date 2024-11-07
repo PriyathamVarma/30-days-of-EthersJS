@@ -1,5 +1,5 @@
 ![Etherjs](https://github.com/PriyathamVarma/30-days-of-EthersJS/blob/main/EthersJS.png)
-# 30 days of Ethers JS
+# 30 days of Ethers jsp
 ## Learn Ethers.js step-wise in 30 days
 
 Ethersjs is one of the most famous JS libraries for interacting with Ethereum Clients. To read, write and transfer to smart contracts we need Ethers.js. In this course you are going to learn ethers.js in just 30 days. It will take just one hour a day to complete the course. This will give you more underatsanding on using ethers.js and upskill your blockchain career. 
